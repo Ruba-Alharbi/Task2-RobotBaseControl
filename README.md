@@ -13,12 +13,12 @@ This task contains 6 sub-tasks:
 -------------------------------------
 This repository contains:
 --------------------------
-1. HTML page >> contains the control base interface,
-2. CSS page >> contains the design of the control base interface,
+1. HTML page >> contains the control base interface,(baseControl.html)
+2. CSS page >> contains the design of the control base interface,(baseControlStyle.css)
 3. 2 pages of PHP>> **connRobotBase.php** : contains the code to connect the database with the interface, **retrievalBase.php** : contains the code to connect the database with the hardware that retrieves the directions of robot base.
 4. SQL : DB contains 1 table for the robot base directions.
-5. HTML page >> contains the both tasks in singl page.
-6. Task 1 files >> interface: robotArm.html , design:robotArmStyle.css and PHP pages.
+5. HTML page >> contains the both tasks in singl page. (index.html)
+6. Task 1 files >> interface: robotArm.html , design:robotArmStyle.css and PHP pages (conn.php, dataRetrieval.php).
 ---------------------------------
 The task interfaces
 ---------------------------------
