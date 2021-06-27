@@ -22,7 +22,10 @@ This repository contains:
 ---------------------------------
 The task interfaces
 ---------------------------------
-![](taskInterface/Task2-Interface.png)
+![](task2Interfaces/task2.png)
+![](task2Interfaces/home.png)
+![](task2Interfaces/task1.1.png)
+
 ---------------------------------
 هذه المهمة هي جزء من التدريب الصيفي في شركة الأساليب الذكية.
 --------------------------------
